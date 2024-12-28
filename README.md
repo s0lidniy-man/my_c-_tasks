@@ -1,2 +1,3 @@
 # my_c-_tasks
-all my tasks, that I've done 
+Аll my tasks, that I have done by C++
+Все мои задания, которые я сделал на C++
